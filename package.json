@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "busboy": "^0.2.14",
     "ejs": "^2.5.9",
     "koa": "^2.5.0",
     "koa-views": "^6.1.4",
